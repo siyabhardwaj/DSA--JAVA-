@@ -14,4 +14,7 @@ Approach:
 Time Complexity: O(n)
  Space Complexity: O(1)
 
-
+## Problem 3: Two Sum
+Approach: Use HashMap to store visited elements and check complement
+Time Complexity: O(n)
+Space Complexity: O(n)
